@@ -1,0 +1,8 @@
+hari,hari@gmail.com,9515637711,1001,15,10,150,Fri Aug  4 19:03:11 2023
+hridayesh,hridayesh@gmail.com,9876543210,1001,20,10,200,Fri Aug  4 20:36:38 2023
+Hermonie,wizard@gmail.com,1597534862,1001,5,10,50,Fri Aug  4 20:48:47 2023
+dubledore,headmaster@gmail.com,4568527931,1001,10,10,100,Fri Aug  4 21:12:40 2023
+Golden Snitch,hundredpoints@gmail.com,7531596248,1001,10,10,100,Fri Aug  4 21:13:56 2023
+ironfist,fireice@gmail.com,7534568912,1005,100,5,500,Fri Aug  4 21:15:21 2023
+google,google@Gmail.com,7777777777,1005,36,5,180,Fri Aug  4 21:16:12 2023
+shiva,shiva@gmail.com,78945+123,1005,4,5,20,Thu Aug 10 12:12:19 2023
