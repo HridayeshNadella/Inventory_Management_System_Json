@@ -14,6 +14,7 @@ This Python script is designed to manage inventory and handle sales transactions
 ## Prerequisites
 
 - Python 3.x
+- File Handling with json,txt.
 
 ## Usage
 
