@@ -21,4 +21,13 @@ This Python script is designed to manage inventory and handle sales transactions
 1. Clone the repository:
    ```sh
    git clone https://github.com/HridayeshNadella/Inventory_Management_System_Json.git
+## Data Files
+Record.json: Contains information about available products and their inventory.
+Sales.txt: Stores sales transaction details.
+## Future Enhancements
+Add user authentication for secure access.
+Implement a graphical user interface (GUI) for improved user experience.
+Add features for managing supplier information and restocking products.
+## Contributions
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or submit a pull request.
 
