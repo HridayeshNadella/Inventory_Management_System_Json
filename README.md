@@ -19,5 +19,5 @@ This Python script is designed to manage inventory and handle sales transactions
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/inventory-management.git
+   git clone https://github.com/HridayeshNadella/Inventory_Management_System_Json.git
 
